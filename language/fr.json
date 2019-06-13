@@ -1,47 +1,38 @@
 {
-  "semantics":[
+  "semantics": [
     {
-      "label":"Title",
-      "description":"Title for the goals assessment page.",
-      "default":"Goals assessment"
+      "label": "Description",
+      "description": "Description de la page d'évaluation des objectifs.",
+      "default": "Evaluer les objectifs que vous avez choisis dans la page des objectifs."
     },
     {
-      "label":"Description",
-      "description":"Description of the goals assessment page.",
-      "default":"Rate the goals that you have chosen in the goals page."
+      "label": "Texte pour une notation insuffisante",
+      "description": "Entrez ici le texte pour une notation insuffisante.",
+      "default": "Désolé, vous n'avez pas encore assimilé suffisamment de notions, nous vous encourageons à poursuivre vos efforts."
     },
     {
-      "label":"Low rating text",
-      "description":"Text for worst rating.",
-      "default":"Learned little"
+      "label": "Texte pour une notation moyenne",
+      "description": "Entrez ici le texte pour une notation moyenne.",
+      "default": "Bravo pour vos efforts, vous avez acquis certaines notions, mais vous pouvez encore progresser."
     },
     {
-      "label":"Medium rating text",
-      "description":"Text for middle rating.",
-      "default":"Learned something"
+      "label": "Texte pour une bonne notation",
+      "description": "Entrez ici le texte pour une bonne notation.",
+      "default": "Félicitations, vous avez assimilé toutes les notions."
     },
     {
-      "label":"High rating text",
-      "description":"Text for great rating.",
-      "default":"Learned a lot"
+      "label": "Texte quand il n'y a aucun objectif",
+      "description": "Entrez ici le texte de feedback quand aucun objectif n'a été défini.",
+      "default": "Vous n'avez encore choisi aucun objectif."
     },
     {
-      "label":"No goals text",
-      "description":"Feedback text when no goals have been created.",
-      "default":"You have not chosen any goals yet."
+      "label": "Titre du texte d'aide",
+      "description": "Titre pour afficher l'information complémentaire utile à l'utilisateur.",
+      "default": "En savoir plus"
     },
     {
-      "label":"Goal specification label",
-      "default":"Specifications"
-    },
-    {
-      "label":"Label for help text",
-      "description":"Label for showing additional helpful information to the user.",
-      "default":"More information"
-    },
-    {
-      "label":"Fill in additional help information",
-      "description":"Here you can fill in additional helpful information for the user."
+      "label": "Complétez l'information supplémentaire utile",
+      "description": "Ici vous pouvez saisir l'information complémentaire utile pour l'utilisateur."
     }
   ]
 }

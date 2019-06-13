@@ -1,47 +1,38 @@
 {
-  "semantics":[
+  "semantics": [
     {
-      "label":"Title",
-      "description":"Title for the goals assessment page.",
-      "default":"Goals assessment"
+      "label": "Kirjeldus",
+      "description": "Eesmärkide hindamise lehekülje kirjeldus.",
+      "default": "Hinda eesmärgid, mis valisid eesmärkide lehel."
     },
     {
-      "label":"Description",
-      "description":"Description of the goals assessment page.",
-      "default":"Rate the goals that you have chosen in the goals page."
+      "label": "Madala tulemuse tekst",
+      "description": "Kõige hullema tulemuse tekst.",
+      "default": "Õppisid natuke"
     },
     {
-      "label":"Low rating text",
-      "description":"Text for worst rating.",
-      "default":"Learned little"
+      "label": "Keskmise tulemuse tekst",
+      "description": "Keskmise tulemuse tekst.",
+      "default": "Õppisid midagi"
     },
     {
-      "label":"Medium rating text",
-      "description":"Text for middle rating.",
-      "default":"Learned something"
+      "label": "Kõrge tulemuse tekst",
+      "description": "Suurepärase tulemuse tekst.",
+      "default": "Õppisid palju"
     },
     {
-      "label":"High rating text",
-      "description":"Text for great rating.",
-      "default":"Learned a lot"
+      "label": "Ilma eesmärkideta tekst",
+      "description": "Tagasiside tekst, kui eesmärke ei ole loodud.",
+      "default": "Sa ei ole veel ühtki eesmärki valinud."
     },
     {
-      "label":"No goals text",
-      "description":"Feedback text when no goals have been created.",
-      "default":"You have not chosen any goals yet."
+      "label": "Abiteksti silt",
+      "description": "Silt täiendav abistava teabe näitamiseks kasutajale.",
+      "default": "Rohkem teavet"
     },
     {
-      "label":"Goal specification label",
-      "default":"Specifications"
-    },
-    {
-      "label":"Label for help text",
-      "description":"Label for showing additional helpful information to the user.",
-      "default":"More information"
-    },
-    {
-      "label":"Fill in additional help information",
-      "description":"Here you can fill in additional helpful information for the user."
+      "label": "Sisesta täiendav abiteave",
+      "description": "Siin saad sisestada kasutaja jaoks täiendava abiteabe."
     }
   ]
 }

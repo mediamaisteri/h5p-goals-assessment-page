@@ -1,11 +1,6 @@
 {
   "semantics": [
     {
-      "label": "Title",
-      "description": "Title for the goals assessment page.",
-      "default": "Goals assessment"
-    },
-    {
       "label": "Description",
       "description": "Description of the goals assessment page.",
       "default": "Rate the goals that you have chosen in the goals page."
@@ -29,10 +24,6 @@
       "label": "No goals text",
       "description": "Feedback text when no goals have been created.",
       "default": "You have not chosen any goals yet."
-    },
-    {
-      "label": "Goal specification label",
-      "default": "Specifications"
     },
     {
       "label": "Label for help text",

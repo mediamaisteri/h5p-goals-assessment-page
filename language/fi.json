@@ -1,47 +1,38 @@
 {
-  "semantics":[
+  "semantics": [
     {
-      "label":"Title",
-      "description":"Title for the goals assessment page.",
-      "default":"Goals assessment"
+      "label": "Kuvaus",
+      "description": "Kuvaus tai ohje tekijälle jälkiarviointiin.",
+      "default": "Arvioi tavoitesivulla valitsemasi tavoitteet."
     },
     {
-      "label":"Description",
-      "description":"Description of the goals assessment page.",
-      "default":"Rate the goals that you have chosen in the goals page."
+      "label": "Huonoimman arvionnin teksti",
+      "description": "Teksti huonoimmalle arvioinnille.",
+      "default": "Opin vähän"
     },
     {
-      "label":"Low rating text",
-      "description":"Text for worst rating.",
-      "default":"Learned little"
+      "label": "Keskimääräisen arvioinnin teksti",
+      "description": "Teksti keskimääräiselle arvioinnille.",
+      "default": "Opin jotain"
     },
     {
-      "label":"Medium rating text",
-      "description":"Text for middle rating.",
-      "default":"Learned something"
+      "label": "Parhaimman arvioinnin teksti",
+      "description": "Teksti parhaimmalla arvioinnille.",
+      "default": "Opin paljon"
     },
     {
-      "label":"High rating text",
-      "description":"Text for great rating.",
-      "default":"Learned a lot"
+      "label": "Tekstiä, kun ei tavoitteita",
+      "description": "Palaute, kun yhtään tavoitetta ei ole valittu.",
+      "default": "Et ole valinnut yhtään tavoitetta vielä."
     },
     {
-      "label":"No goals text",
-      "description":"Feedback text when no goals have been created.",
-      "default":"You have not chosen any goals yet."
+      "label": "Teksti osoittamaan lisätietoa",
+      "description": "Lisätietoa ilmaiseva teksti käyttäjälle.",
+      "default": "Lisää tietoa"
     },
     {
-      "label":"Goal specification label",
-      "default":"Specifications"
-    },
-    {
-      "label":"Label for help text",
-      "description":"Label for showing additional helpful information to the user.",
-      "default":"More information"
-    },
-    {
-      "label":"Fill in additional help information",
-      "description":"Here you can fill in additional helpful information for the user."
+      "label": "Lisätietoteksti",
+      "description": "Tähän voit täyttää tekstiä lisätietona käyttäjälle."
     }
   ]
 }

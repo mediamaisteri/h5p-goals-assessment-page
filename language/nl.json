@@ -1,47 +1,38 @@
 {
-  "semantics":[
+  "semantics": [
     {
-      "label":"Title",
-      "description":"Title for the goals assessment page.",
-      "default":"Goals assessment"
+      "label": "Omschrijving",
+      "description": "Omschrijving van de beoordeling van de doelstellingenpagina",
+      "default": "Waardeer de doelstellingen die je gekozen hebt op de doelstellingenpagina."
     },
     {
-      "label":"Description",
-      "description":"Description of the goals assessment page.",
-      "default":"Rate the goals that you have chosen in the goals page."
+      "label": "Tekst lage waardering",
+      "description": "Tekst voor de laagste waardering.",
+      "default": "Weinig geleerd"
     },
     {
-      "label":"Low rating text",
-      "description":"Text for worst rating.",
-      "default":"Learned little"
+      "label": "Tekst gemiddelde waardering",
+      "description": "Tekst voor de gemiddelde waardering.",
+      "default": "Redelijk wat geleerd"
     },
     {
-      "label":"Medium rating text",
-      "description":"Text for middle rating.",
-      "default":"Learned something"
+      "label": "Tekst hoge waardering",
+      "description": "Tekst voor de hoogste waardering.",
+      "default": "Veel geleerd"
     },
     {
-      "label":"High rating text",
-      "description":"Text for great rating.",
-      "default":"Learned a lot"
+      "label": "Tekst geen doelstellingen",
+      "description": "Feedback tekst als er geen doelstellingen zijn gekozen.",
+      "default": "Je hebt nog geen doelstellingen gekozen."
     },
     {
-      "label":"No goals text",
-      "description":"Feedback text when no goals have been created.",
-      "default":"You have not chosen any goals yet."
+      "label": "Label voor de help tekst",
+      "description": "Label om aanvullende nuttige informatie aan de gebruiker te tonen.",
+      "default": "Meer informatie"
     },
     {
-      "label":"Goal specification label",
-      "default":"Specifications"
-    },
-    {
-      "label":"Label for help text",
-      "description":"Label for showing additional helpful information to the user.",
-      "default":"More information"
-    },
-    {
-      "label":"Fill in additional help information",
-      "description":"Here you can fill in additional helpful information for the user."
+      "label": "Vul aanvullende help informatie in",
+      "description": "Hier kun je aanvullende nuttige informatie invullen voor de gebruiker."
     }
   ]
 }

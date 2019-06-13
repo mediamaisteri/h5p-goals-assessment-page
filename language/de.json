@@ -1,47 +1,38 @@
 {
-  "semantics":[
+  "semantics": [
     {
-      "label":"Title",
-      "description":"Title for the goals assessment page.",
-      "default":"Goals assessment"
+      "label": "Beschreibung",
+      "description": "Beschreibung für die Zielbewertungsseite.",
+      "default": "Die Ziele auf der Zielseite bewerten."
     },
     {
-      "label":"Description",
-      "description":"Description of the goals assessment page.",
-      "default":"Rate the goals that you have chosen in the goals page."
+      "label": "Text bei geringer Bewertung",
+      "description": "Text für die schlechteste Wertung.",
+      "default": "Wenig gelernt"
     },
     {
-      "label":"Low rating text",
-      "description":"Text for worst rating.",
-      "default":"Learned little"
+      "label": "Text bei mittlerer Bewertung",
+      "description": "Text für mittlere Wertung.",
+      "default": "Etwas gelernt"
     },
     {
-      "label":"Medium rating text",
-      "description":"Text for middle rating.",
-      "default":"Learned something"
+      "label": "Text bei hoher Bewertung",
+      "description": "Text für hohe Wertung.",
+      "default": "Viel gelernt"
     },
     {
-      "label":"High rating text",
-      "description":"Text for great rating.",
-      "default":"Learned a lot"
+      "label": "Text für keine Ziele",
+      "description": "Feedback Text, wenn keine Ziele erstellt wurden.",
+      "default": "Es wurden noch keine Ziele ausgewählt."
     },
     {
-      "label":"No goals text",
-      "description":"Feedback text when no goals have been created.",
-      "default":"You have not chosen any goals yet."
+      "label": "Label für den Hilfstext",
+      "description": "Label, um dem Benutzer zusätzliche hilfreiche Informationen anzuzeigen.",
+      "default": "Weitere Informationen"
     },
     {
-      "label":"Goal specification label",
-      "default":"Specifications"
-    },
-    {
-      "label":"Label for help text",
-      "description":"Label for showing additional helpful information to the user.",
-      "default":"More information"
-    },
-    {
-      "label":"Fill in additional help information",
-      "description":"Here you can fill in additional helpful information for the user."
+      "label": "Weitere hilfreiche Informationen einfügen",
+      "description": "Hier können zusätzliche hilfreiche Informationen für den Benutzer eingegeben werden."
     }
   ]
 }
